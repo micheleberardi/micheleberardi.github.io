@@ -8,8 +8,17 @@
       "url": "https://ipmike.com",
       "title": "IPMIKE - Ip Location via web and via curl command <curl ipmike.com"
     },
+    {
       "url": "https://github.com/micheleberardi/flushi",
-      "title": "FLUSHI -  MacOSX APP to flush DNS cache"
+      "title": "FLUSHI - MacOSX APP to flush DNS cache"
+    },
+    {
+      "url": "https://apps.apple.com/us/app/cryptomike/id1624665033",
+      "title": "CRYPTOMIKE IOS APP Flutter Framework"
+    },
+    {
+      "url": "https://play.google.com/store/apps/details?id=cryptoMike.iqonic.cryptocoin&hl=en&gl=US",
+      "title": "CRYPTOMIKE ANDROID APPFlutter Framework"
     }
   ]
 }
