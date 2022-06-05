@@ -143,6 +143,12 @@ h2 {
   margin: 0 0 0.5em 0;
 }
 
+h3 {
+  color: var(--pink);
+  font-weight: 150;
+  margin: 0 0 0.5em 0;
+}
+
 a {
   color: var(--gray);
 }
@@ -260,3 +266,4 @@ tr td:nth-child(2) {
 .bio.show {
   display: block;
 }
+
