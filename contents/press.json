@@ -6,7 +6,10 @@
     },
     {
       "url": "https://ipmike.com",
-      "title": "IPMIKE - Project to get Ip Location via web and via curl command <curl ipmike.com"
+      "title": "IPMIKE - Ip Location via web and via curl command <curl ipmike.com"
+    },
+      "url": "https://github.com/micheleberardi/flushi",
+      "title": "FLUSHI -  MacOSX APP to flush DNS cache"
     }
   ]
 }
