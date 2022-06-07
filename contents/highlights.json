@@ -20,7 +20,7 @@
     },
     {
       "type": "job",
-      "date": "March 2018",
+      "date": "2006 - 2018",
       "description": {
         "what": " System Engineer Team Leader",
         "emphasis": "Flycell is dedicated to web and mobile services for the global market.\n",
@@ -36,18 +36,10 @@
         "info": "HP-Proliant, Cisco networking, Red Hat Linux, LAMP under GeoDNS with Akamai and MaxCDN.\n"
       }
     },
-    {
-      "type": "event",
-      "date": "September 2017",
-      "description": {
-        "what": "Got",
-        "emphasis": "married",
-        "info": "It's real, people. I'm a married adult!"
-      }
-    },
+
     {
       "type": "job",
-      "date": "November 2017",
+      "date": "2000-2003",
       "description": {
         "what": "Senior Linux Administrator\n",
         "emphasis": "Acotel Group SpA",
