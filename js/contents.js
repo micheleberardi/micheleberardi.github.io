@@ -33,6 +33,13 @@ function pullHighlights() {
   });
 }
 
+// pull blog content
+function pullBlog() {
+  return fetch('contents/blog.json', buildHeader()).then(function(response) {
+    return response.json();
+  });
+}
+
 // pull press links
 function pullPress() {
   return fetch('contents/press.json', buildHeader()).then(function(response) {
@@ -68,6 +75,21 @@ function pressVars() {
   });
 }
 
+function highlightsblog() {
+  var h = document.getElementById('highlightsblog');
+  pullBlog().then(function(r) {
+    document.getElementsByClassName('loading')[0].classList.add('hide');
+    r.data.forEach(function (x) {
+      h.innerHTML += '<li class="' + x.type +
+        '"><div class="left">' + x.date +
+        '</div><div class="desc"><div>' + x.description.what + ' ' +
+        '</div><div class="info">'
+        + '<a href="' + x.description.info + '">' + x.description.emphasis + '</a></div></div></li>';
+    });
+  });
+}
+
+
 // generate press section
 function press(articles) {
   var p = document.getElementById('press');
@@ -82,6 +104,7 @@ function press(articles) {
   window.addEventListener('load', function() {
     highlights();
     pressVars();
+    highlightsblog();
     expandGroups('click');
     expandGroups('touchend');
   }, false);

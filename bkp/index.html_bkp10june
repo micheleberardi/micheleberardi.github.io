@@ -7,6 +7,9 @@
       content="Michele Berardi, Director of Engineering at Bucksense in NYC."
     />
 
+    <!-- Web Monetization
+    <meta name="monetization" content="$ilp.uphold.com/rEgHHBQGDUDP" />
+    -->
     <!-- Twitter data -->
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:title" content="Michele Berardi" />
@@ -45,9 +48,7 @@
       href="/img/favicon-16x16.png"
       sizes="16x16"
     />
-    <!--
     <link rel="manifest" href="/img/manifest.json" />
-    -->
     <link rel="mask-icon" href="/img/safari-pinned-tab.svg" color="#24d05a" />
     <link rel="shortcut icon" href="/img/favicon.ico" />
     <meta name="msapplication-config" content="/img/browserconfig.xml" />
@@ -79,51 +80,33 @@
         </div>
       </div>
       <div class="links">
+        <a href="https://twitter.com/hackmikenyc" target="_blank">twitter</a>
+
+        <a href="https://micheleberardi.medium.com" target="_blank">medium</a>
         <a href="https://github.com/micheleberardi" target="_blank">github</a>
         <a href="https://codepen.io/micheleberardi/" target="_blank">codepen</a>
+        <a href="https://linkedin.com/in/micheleberardi" target="_blank">linkedin</a>
+        <a href="https://ipmike.com" target="_blank">ip mike</a>
+        <a href="https://cryptomike.io" target="_blank">crypto mike</a>
+        <a href="https://opensea.io/hackmike" target="_blank">nft</a>
+
       </div>
-
-
       <div class="bio-switcher">
         <div class="toggler">
           <button id="short" class="show">Short</button>
           <button id="long">Long</button>
-          <button id="social">Social</button>
-          <button id="project">Project</button>
-          <button id="blog">Blog</button>
+          <!-- <button id="speaker">Bio Timeline</button>-->
         </div>
-
         <div class="bio short show">
           Hi there! My name is Michele. I'm the Director Of Engineering at <a href="https://bucksense.com" target="_blank">Bucksense</a>,
           and contributor CNCF Foundation at
           <a href="https://www.cncf.io/" target="_blank">CNCF Foundation</a>! I'm also a
           contributor at <a href="https://kubernetes.io/" target="_blank">Kubernetes</a>! I enjoy building mechanical keyboards,
           NFT and CRYPTO FUN and Pizza Maker.
-        </div>
-        <div class="bio social">
-         <a href="https://twitter.com/hackmikenyc" target="_blank">twitter</a>
-          <p></p>
-         <a href="https://micheleberardi.medium.com" target="_blank">medium</a>
-          <p></p>
-         <a href="https://linkedin.com/in/micheleberardi" target="_blank">linkedin</a>
-        <p></p>
-        </div>
-        <div class="bio project">
-        <a href="https://ipmike.com" target="_blank">ip mike</a>
-        <p></p>
-          <a href="https://cryptomike.io" target="_blank">crypto mike</a>
-        <p></p>
-          <a href="https://opensea.io/hackmike" target="_blank">nft</a>
-        </div>
-        <div class="bio blog">
-          <div class="exp">
-          <div class="loading"></div>
-          <ul id="highlightsblog">
-          </ul>
-
-          </div>
-          </div>
-
+         <!-- You should
+          <a href="#"
+            >subscribe to my newsletter</a
+          >-->
         </div>
         <div class="bio long">
           Hi there! My name is Michele. I'm the Director Of Engineering at <a href="https://bucksense.com" target="_blank">Bucksense</a>,
@@ -152,7 +135,7 @@
           <div class="changelog">
           <div class="title flash"><h3>BIO TIMELINE</h3></div>
             <p></p>
-            A lot has happened over the past few years.Here's some of the highlights.
+            A lot has happened over the past few years. Here's some of the highlights.
             <p></p>
           <div class="exp">
           <div class="loading"></div>
@@ -165,12 +148,13 @@
           <p></p>
           <div class="updates">
           <div class="title flash"><h3>UPDATES/RELEASES</h3></div>
-            Here's some recent project. You can see more on my <a href="https://github.com/micheleberardi">GitHub</a>.
+            Here's some recent news. You can see more on my <a href="https://github.com/micheleberardi">GitHub</a>.
+          <divhighlights.json class="exp">
           <div class="loading"></div>
           <ul id="press">
           </ul>
+          </divhighlights.json>
           </div>
-
           <p></p>
            <h3>LICENSES & CERTIFICATIONS</h3>
           <span style="color: #10a2f5">Red-Hat Certified Engineer</span> Issue Jan 2001
@@ -188,7 +172,8 @@
           <p></p>
            <h3>PERSONAL LIFE</h3>
           <p></p>
-
+          <!--I run
+          <a href="#">a weekly newsletter</a> and -->
           love teaching and helping people become better devops
           <p></p>
           I enjoy building mechanical keyboards,
@@ -197,7 +182,9 @@
           <p></p>
           i love build REST API and Build Slack APP & Mobile APP
           <p></p>
-
+          <!--In my spare time hanging out with
+          <a href="https://twitter.com/cristinamathis" target="_blank">my wife</a> and my kids!
+          -->
         </div>
       <div class="dark-mode-toggler">
         <input type="checkbox" id="toggler" />
@@ -205,7 +192,11 @@
       </div>
     </div>
       <p></p>
-
+      <!-- <div>
+          Thanks to <a href="https://github.com/mddjjd">mcihele</a>
+          to share the repository with us
+        </div>
+    -->
     <script src="./script.js"></script>
       <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-8MWSFDZ6NG"></script>
