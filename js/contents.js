@@ -78,7 +78,7 @@ function pressVars() {
 function highlightsblog() {
   var h = document.getElementById('highlightsblog');
   pullBlog().then(function(r) {
-    document.getElementsByClassName('loading')[0].classList.add('hide');
+    document.getElementsByClassName('loading')[0].classList.add('show');
     r.data.forEach(function (x) {
       h.innerHTML += '<li class="' + x.type +
         '"><div class="left">' + x.date +
