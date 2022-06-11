@@ -9,6 +9,8 @@
         "info": "https://app.ens.domains/"
       }
     },
+
+
     {
       "type": "blog",
       "date": "Feb 19 2022",
@@ -16,6 +18,15 @@
         "what": "New Post on Medium",
         "emphasis": " Google For Retail",
         "info": "https://medium.com/@micheleberardi/google-for-retail-1687e703e142"
+      }
+    },
+    {
+      "type": "blog",
+      "date": "Jun 01 2021",
+      "description": {
+        "what": "Lauch Cryptomike Site",
+        "emphasis": "CryptoMike",
+        "info": "https://cryptomike.io/"
       }
     }
   ]
