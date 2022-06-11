@@ -45,6 +45,64 @@
         "emphasis": "CryptoMike",
         "info": "https://cryptomike.io/"
       }
+    },
+    {
+      "type": "blog",
+      "date": "Jun 01 2021",
+      "description": {
+        "what": "Launch Cryptomike Site",
+        "emphasis": "CryptoMike",
+        "info": "https://cryptomike.io/"
+      }
+    },
+    {
+      "type": "blog",
+      "date": "Jan 01 2020",
+      "description": {
+        "what": "Director of Engineering Bucksense",
+        "emphasis": "Bucksense",
+        "info": "https://bucksense.com/"
+      }
+    },
+    {
+
+      "type": "blog",
+      "date": "Jan 10 2010",
+      "description": {
+        "what": "Senior DevOps Engineer Team Lead Bucksense",
+        "emphasis": "Bucksense",
+        "info": "https://bucksense.com/"
+      }
+    },
+    {
+
+      "type": "blog",
+      "date": "Jan 10 2006",
+      "description": {
+        "what": "System Engineer Team Leader Flycell",
+        "emphasis": "Flycell",
+        "info": "#"
+      }
+    },
+       {
+
+      "type": "blog",
+      "date": "Jan 10 2003",
+      "description": {
+        "what": "System Engineer Team Lead Acotel Group SpA",
+        "emphasis": "Acotel Group",
+        "info": "https://acotel.com"
+      }
+    },
+    {
+
+      "type": "blog",
+      "date": "Jan 10 2000",
+      "description": {
+        "what": "Senior Linux Administrator Acotel Group SpA",
+        "emphasis": "Acotel Group",
+        "info": "https://acotel.com"
+      }
     }
   ]
 }
