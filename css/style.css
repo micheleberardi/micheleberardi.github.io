@@ -1,7 +1,7 @@
 :root {
   --white: #fff;
   --black: #000;
-  --gray: #8b8b8b;
+  --gray: #783f3f;
   --highlight: #e5ffc3;
   --red: #e4002b;
   --green: #24d05a;
@@ -143,17 +143,6 @@ h2 {
   margin: 0 0 0.5em 0;
 }
 
-h3 {
-  color: var(--pink);
-  font-weight: 150;
-  margin: 0 0 0.5em 0;
-}
-
-h4 {
-  color: var(--blue);
-  font-weight: 100;
-}
-
 a {
   color: var(--gray);
 }
@@ -271,4 +260,3 @@ tr td:nth-child(2) {
 .bio.show {
   display: block;
 }
-
