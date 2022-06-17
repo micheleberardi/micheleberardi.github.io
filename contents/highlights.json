@@ -2,7 +2,7 @@
   "data": [
     {
       "type": "job",
-      "date": "2014 - Present",
+      "date": "2015 - Present",
       "description": {
         "what": "Director of Engineering",
         "emphasis": "Bucksense",
@@ -10,17 +10,47 @@
       }
     },
     {
+
       "type": "job",
-      "date": "2010 – 2014",
+      "date": "2014 - 2015",
+      "description": {
+        "what": "Senior DevOps Engineering Team Lead",
+        "emphasis": "Bucksense",
+        "info": ""
+      }
+    },
+
+    {
+      "type": "job",
+      "date": "2011 – 2013",
       "description": {
         "what": "Senior DevOps Engineering",
         "emphasis": "Directopub",
-        "info": "https://directopub.com"
+        "info": ""
+      }
+    },
+     {
+      "type": "job",
+      "date": "2009 – 2011",
+      "description": {
+        "what": "Senior DevOps Engineering",
+        "emphasis": "OfferMetrix",
+        "info": ""
       }
     },
     {
       "type": "job",
-      "date": "2006 - 2018",
+      "date": "2007 – 2009",
+      "description": {
+        "what": "Senior DevOps Engineering",
+        "emphasis": "Hera Perfomance",
+        "info": ""
+      }
+    },
+
+    {
+      "type": "job",
+      "date": "2006 - 2009",
       "description": {
         "what": " System Engineer Team Leader",
         "emphasis": "Flycell",
