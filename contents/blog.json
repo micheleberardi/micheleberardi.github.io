@@ -78,13 +78,36 @@
     {
 
       "type": "blog",
-      "date": "Jan 10 2010",
+      "date": "Jan 10 2011",
       "description": {
         "what": "Senior DevOps Engineering",
         "emphasis": "Directopub",
         "info": "https://directopub.com"
       }
     },
+    {
+
+
+      "type": "blog",
+      "date": "Jan 10 2009",
+      "description": {
+        "what": "Senior DevOps Engineering",
+        "emphasis": "OfferMetrix",
+        "info": "https://OfferMetrix.com"
+      }
+    },
+    {
+
+
+      "type": "blog",
+      "date": "Jan 10 2007",
+      "description": {
+        "what": "Senior DevOps Engineering",
+        "emphasis": "Heraperformance",
+        "info": "https://heraperformance.com"
+      }
+    },
+
     {
 
       "type": "blog",
