@@ -105,7 +105,7 @@ button:hover {
   border: 2px solid var(--gray);
   border-radius: 15px;
   position: absolute;
-  top: 0px;
+  top: 1px;
   left: -65px;
 }
 .dark-mode-toggler input[type="checkbox"] + label::after {
@@ -259,4 +259,8 @@ tr td:nth-child(2) {
 }
 .bio.show {
   display: block;
+}
+
+.customIndent {
+  padding-left: 15em;
 }
