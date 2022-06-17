@@ -68,7 +68,7 @@
     },
     {
       "type": "blog",
-      "date": "Jan 01 2020",
+      "date": "Jan 01 2014",
       "description": {
         "what": "Director of Engineering Bucksense",
         "emphasis": "Bucksense",
@@ -80,9 +80,9 @@
       "type": "blog",
       "date": "Jan 10 2010",
       "description": {
-        "what": "Senior DevOps Engineer Team Lead Bucksense",
-        "emphasis": "Bucksense",
-        "info": "https://bucksense.com/"
+        "what": "Senior DevOps Engineering",
+        "emphasis": "Directopub",
+        "info": "https://directopub.com"
       }
     },
     {
