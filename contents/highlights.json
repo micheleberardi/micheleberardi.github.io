@@ -2,7 +2,7 @@
   "data": [
     {
       "type": "job",
-      "date": "2015 - Present",
+      "date": "2010 - Present",
       "description": {
         "what": "Director of Engineering",
         "emphasis": "Bucksense",
@@ -12,69 +12,24 @@
     {
 
       "type": "job",
-      "date": "2014 - 2015",
+      "date": "2006 - 2010",
       "description": {
-        "what": "Senior DevOps Engineering Team Lead",
-        "emphasis": "Bucksense",
-        "info": ""
-      }
-    },
-
-    {
-      "type": "job",
-      "date": "2011 – 2013",
-      "description": {
-        "what": "Senior DevOps Engineering",
-        "emphasis": "Directopub",
-        "info": ""
-      }
-    },
-     {
-      "type": "job",
-      "date": "2009 – 2011",
-      "description": {
-        "what": "Senior DevOps Engineering",
-        "emphasis": "OfferMetrix",
-        "info": ""
-      }
-    },
-    {
-      "type": "job",
-      "date": "2007 – 2009",
-      "description": {
-        "what": "Senior DevOps Engineering",
-        "emphasis": "Hera Perfomance",
-        "info": ""
-      }
-    },
-
-    {
-      "type": "job",
-      "date": "2006 - 2009",
-      "description": {
-        "what": " System Engineer Team Leader",
+        "what": "System Engineer Team Leader",
         "emphasis": "Flycell",
+        "info": ""
+      }
+    },
+
+
+    {
+      "type": "job",
+      "date": "2000 - 2006",
+      "description": {
+        "what": "System Engineer Team Leader",
+        "emphasis": "Acotel Group  ",
         "info": "</a>"
       }
-    },
-    {
-      "type": "job",
-      "date": "2003 – 2006",
-      "description": {
-        "what": "System Engineer  Team Lead\n",
-        "emphasis": "Acotel Group SpA",
-        "info": ""
-      }
-    },
-
-    {
-      "type": "job",
-      "date": "2000-2003",
-      "description": {
-        "what": "Senior Linux Administrator\n",
-        "emphasis": "Acotel Group SpA",
-        "info": ""
-      }
     }
+
   ]
 }
