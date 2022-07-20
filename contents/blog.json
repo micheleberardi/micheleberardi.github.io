@@ -1,6 +1,15 @@
 {
   "data": [
     {
+     "type": "blog",
+      "date": "Jul 20 2022",
+      "description": {
+        "what": "Release first relase project ads-exchange-squawk",
+        "emphasis": "ads-exchange-squawk",
+        "info": "https://github.com/micheleberardi/ads-exchange-squawk"
+      }
+    },
+    {
       "type": "blog",
       "date": "Jun 10 2022",
       "description": {
