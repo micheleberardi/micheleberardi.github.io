@@ -1,12 +1,21 @@
 {
   "data": [
+     {
+     "type": "blog",
+      "date": "Jul 27 2022",
+      "description": {
+        "what": "Release first relase project formula1analysis",
+        "emphasis": "formula1analysis",
+        "info": "https://micheleberardi.com/formula1analysis.html"
+      }
+    },
     {
      "type": "blog",
       "date": "Jul 20 2022",
       "description": {
         "what": "Release first relase project ads-exchange-squawk",
         "emphasis": "ads-exchange-squawk",
-        "info": "https://github.com/micheleberardi/ads-exchange-squawk"
+        "info": "https://micheleberardi.com/squawk.html"
       }
     },
     {
