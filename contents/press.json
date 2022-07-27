@@ -1,7 +1,12 @@
 {
   "data": [
     {
-      "url": "https://github.com/micheleberardi/ads-exchange-squawk",
+
+      "url": "https://micheleberardi.com/formula1analysis.html",
+      "title": "FORMULA 1 Analysis by Python"
+    },
+    {
+      "url": "https://micheleberardi.com/squawk.html",
       "title": "AIRPLANE SQUAWK - Monitoring Airplane Traffic"
     },
     {
