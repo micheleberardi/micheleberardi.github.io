@@ -191,7 +191,7 @@ tr td:nth-child(2) {
 }
 
 
-img.thatimage {
+img-thatimage {
     max-width: 100%;
     min-width: 300px;
     height: auto;
