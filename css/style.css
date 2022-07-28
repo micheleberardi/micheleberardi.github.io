@@ -190,8 +190,10 @@ tr td:nth-child(2) {
   height: 100%;
 }
 
-img {
-    width: 100%;
+
+img.thatimage {
+    max-width: 100%;
+    min-width: 300px;
     height: auto;
 }
 
