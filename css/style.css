@@ -190,6 +190,11 @@ tr td:nth-child(2) {
   height: 100%;
 }
 
+img {
+    width: 100%;
+    height: auto;
+}
+
 .links {
   margin: 25px 0;
 }
