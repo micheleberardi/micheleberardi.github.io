@@ -1,10 +1,20 @@
 {
   "data": [
+    {
+
+     "type": "blog",
+      "date": "Agu 7 2022",
+      "description": {
+        "what": "Release first release project telegram motogp bot",
+        "emphasis": "telegram motogp bot",
+        "info": "https://micheleberardi.com/motogptelegrambot.html"
+      }
+    },
      {
      "type": "blog",
       "date": "Jul 27 2022",
       "description": {
-        "what": "Release first relase project formula 1 analysis",
+        "what": "Release first release project formula 1 analysis",
         "emphasis": "formula1analysis",
         "info": "https://micheleberardi.com/formula1analysis.html"
       }
@@ -13,7 +23,7 @@
      "type": "blog",
       "date": "Jul 20 2022",
       "description": {
-        "what": "Release first relase project ads-exchange-squawk",
+        "what": "Release first release project ads-exchange-squawk",
         "emphasis": "ads-exchange-squawk",
         "info": "https://micheleberardi.com/squawk.html"
       }
