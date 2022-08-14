@@ -17,5 +17,3 @@ A
 js/script.js,4/d/4da5ceae6496884a1f0713d787ace4de5a398774
 >
 js/contents.js,3/8/38685c1b8441d9f3b4f69a898841551d7d3005c6
-H
-contents/highlights.json,c/8/c8fec8780b06763dc99d115ac895dc073b48dd13
