@@ -121,11 +121,11 @@ button:hover {
   left: -62px;
   transition: all 0.4s ease-in;
 }
-.dark-mode-toggler input[type="checkbox"]:checked + label::before {
+.dark-mode-toggler input[type="checkbox"]:checked + label::after {
   background: var(--black);
   border: 2px solid var(--white);
 }
-.dark-mode-toggler input[type="checkbox"]:checked + label::after {
+.dark-mode-toggler input[type="checkbox"]:checked + label::before {
   left: -28px;
   background: var(--black);
   border: 2px solid var(--white);
