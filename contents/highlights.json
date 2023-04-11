@@ -1,8 +1,26 @@
 {
   "data": [
+      {
+      "type": "job",
+      "date": "2020 - present",
+      "description": {
+        "what": "Chief Technology Officer",
+        "emphasis": "at Bucksense",
+        "info": ""
+      }
+    },
     {
       "type": "job",
-      "date": "2010 - Present",
+      "date": "2017 - 2020",
+      "description": {
+        "what": "Vice President of Engineering",
+        "emphasis": "at Bucksense",
+        "info": ""
+      }
+    },
+    {
+      "type": "job",
+      "date": "2010 - 2017",
       "description": {
         "what": "Director of Engineering",
         "emphasis": "at Bucksense",
