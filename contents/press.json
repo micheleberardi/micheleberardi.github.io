@@ -1,6 +1,10 @@
 {
   "data": [
     {
+      "url": "https://micheleberardi.com/pokegpt.html",
+      "title": "ChatGPT Telegram Bot"
+    },
+    {
 
       "url": "https://pypi.org/project/mikeracingf1/",
       "title": "Release PIP Package mikeracingf1"
@@ -34,13 +38,5 @@
       "url": "https://github.com/micheleberardi/flushi",
       "title": "FLUSHI - MacOSX APP to flush DNS cache"
     },
-    {
-      "url": "https://apps.apple.com/us/app/cryptomike/id1624665033",
-      "title": "CRYPTOMIKE IOS APP Flutter Framework"
-    },
-    {
-      "url": "https://play.google.com/store/apps/details?id=cryptoMike.iqonic.cryptocoin&hl=en&gl=US",
-      "title": "CRYPTOMIKE ANDROID APPFlutter Framework"
-    }
   ]
 }
