@@ -84,16 +84,6 @@
         "info": "https://medium.com/@micheleberardi/google-for-retail-1687e703e142"
       }
     },
-    {
-
-      "type": "blog",
-      "date": "Jul 30 2021",
-      "description": {
-        "what": "Launch Nft Market",
-        "emphasis": "NFT Market",
-        "info": "https://opensea.io/hackmike"
-      }
-    },
 
     {
       "type": "blog",
@@ -102,15 +92,6 @@
         "what": "Launch Ipmike Site",
         "emphasis": "IpMike",
         "info": "https://ipmike.com/"
-      }
-    },
-    {
-      "type": "blog",
-      "date": "Jun 01 2021",
-      "description": {
-        "what": "Launch Cryptomike Site",
-        "emphasis": "CryptoMike",
-        "info": "https://cryptomike.io/"
       }
     },
     {
